@@ -7,6 +7,8 @@ class SobreMim extends Desenvolvedor {
   emFaculdade = true;
   periodo = 1;
 
+  interesses = ["Game Dev", "Front end"];
+
   projetos = {
     "existentes": 15;
     "emDesemvolvimentoAtivo": 2;
